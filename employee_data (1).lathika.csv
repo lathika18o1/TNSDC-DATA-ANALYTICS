@@ -1,0 +1,15 @@
+﻿EmployeeClassificationType,(All),,,,
+,,,,,
+Count of FirstName,Column Labels,,,,
+Row Labels,Exceeds,Fully Meets,Needs Improvement,PIP,Grand Total
+BPC,2,17,4,,23
+CCDR,6,16,1,,23
+EW,1,21,2,,24
+MSC,4,18,2,,24
+NEL,2,17,1,1,21
+PL,3,10,3,,16
+PYZ,2,15,6,,23
+SVG,2,16,2,,20
+TNS,2,21,,,23
+WBL,4,22,2,1,29
+Grand Total,28,173,23,2,226
